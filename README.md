@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Research
+***
 
-You can use the [editor on GitHub](https://github.com/Lje2me/Lje2me.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Cheatsheet summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is practice doing Italics with '*' *This is Italisised* and now it isnt.
 
-### Markdown
+Similarly this is practice with Bold using '**' **Bold is strong** and now it's normal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+to Bold and Italisise use '**__' **Bold and now _Italic Bold_ Much wow**
 
-```markdown
-Syntax highlighted code block
+To strike out a phrase or word use double '~' And now we can strike out ~~words~~ as we please.
 
-# Header 1
-## Header 2
-### Header 3
+#### Lists
+1. An item
+2. Another item
+  * a sub list?
+  * oh it worked!
+1. A banana
+  1. Potassium
+  2. yellow
 
-- Bulleted
-- List
+#### Links
 
-1. Numbered
-2. List
+square brackets to name the link curved for actual URL
+[This is a good example, I'm google](https://www.google.com)
+[Ssame page but when you hover over me I have a title](https://www.google.com)
+or have no name and just the link [https://www.google.com]
 
-**Bold** and _Italic_ and `Code` text
+#### Tables
 
-[Link](url) and ![Image](src)
-```
+This | my | Table
+--- | --- | ---
+Look | At | Me!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Block quotes
+the '>' makes a blockquote thingy here's an *Example*
 
-### Jekyll Themes
+> Wowee Look at this, I'm in  a funky little container thing with a grey line at the start. How **COOL** is that!? apparently it will wrap just nicely too?? I thought this was a daunting task but it isn't so bad!!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lje2me/Lje2me.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Scratch Files
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here are the Projects I made, They are all pretty simple but most work as I hoped they would!
+<dl>
+<dt> Projects </dt>
+ 
+ <iframe src="https://scratch.mit.edu/projects/716770970/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+<iframe src="https://scratch.mit.edu/projects/717593549/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+<iframe src="https://scratch.mit.edu/projects/717576450/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+<iframe src="https://scratch.mit.edu/projects/717595301/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+ <iframe src="https://scratch.mit.edu/projects/717581019/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+ </dl>
